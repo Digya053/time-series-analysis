@@ -1,2 +1,2 @@
 # time-series-analysis
-This consists of time series analysis and forecasting on the github's users data.
+This consists of time series analysis and forecasting on github's users data.
